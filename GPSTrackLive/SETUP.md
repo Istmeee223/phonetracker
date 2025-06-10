@@ -6,7 +6,7 @@
    ```bash
    git clone https://github.com/Istmeee223/phonetracker.git
    cd phonetracker
-
+   cd GPSTrackLive 
    ```
 
 2. **Install Python dependencies**
