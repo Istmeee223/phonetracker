@@ -5,7 +5,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Istmeee223/gps-tracker-demo.git
-   cd gps-tracker-demo
+   cd GPSTrackLive
    ```
 
 2. **Install Python dependencies**
