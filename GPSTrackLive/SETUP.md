@@ -4,18 +4,13 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gps-tracker-demo.git
+   git clone https://github.com/Istmeee223/gps-tracker-demo.git
    cd gps-tracker-demo
    ```
 
 2. **Install Python dependencies**
    ```bash
    pip install -r requirements-github.txt
-   ```
-
-3. **Set environment variable**
-   ```bash
-   export SESSION_SECRET="your-random-secret-key-here"
    ```
 
 4. **Run the application**
